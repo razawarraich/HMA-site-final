@@ -999,7 +999,24 @@ main [id], section[id] { scroll-margin-top: calc(var(--nav-h) + 40px); }
 .sx__cols { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; border-top: 1px solid var(--line); padding-top: 18px; }
 .sx__col { display: grid; gap: 7px; align-content: start; }
 .sx__col p { color: var(--slate); font-size: 15px; }
-
+/* Highlighted explainer labels */
+.sx__col > .label {
+  justify-self: start;
+  background: var(--blue-soft);
+  color: var(--blue-deep);
+  padding: 4px 9px;
+  border-radius: 3px;
+}
+/* "What you get" is the payoff — make it pop 
+.sx__col:last-child > .label {
+  background: var(--blue-deep);
+  color: #fff;
+}
+.sx__col:last-child p {
+  color: var(--ink);
+  font-weight: 500;
+}
+*/
 /* ---------- CTA strip (inner pages) ---------- */
 .cta-strip { background: var(--ink); color: var(--on-dark); }
 .cta-strip__in { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: clamp(28px, 5vw, 72px); align-items: center; }
