@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="footer__brand">
             <Link className="logo" to="/" aria-label="HMA Global Solutions home">
               {/* Add your logo image link in the src attribute below */}
-              <img src="img/hma-logo-dark-Photoroom.png" alt="HMA Global Solutions" className="footer__logo-img" />
+              <img src="img/hma-logo-dark-Photoroom.wepb" alt="HMA Global Solutions" className="footer__logo-img" />
             </Link>
             <p>
               Performance marketing for businesses that want every dollar of ad spend
