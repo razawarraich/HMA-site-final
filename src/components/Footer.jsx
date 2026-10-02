@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container">
         <div className="footer__grid">
           <div className="footer__brand">
-            <Link className="logo" to="/" aria-label="HMA Global Solutions — home">
+            <Link className="logo" to="/" aria-label="HMA Global Solutions home">
               {/* Add your logo image link in the src attribute below */}
               <img src="img/hma-logo-dark-Photoroom.png" alt="HMA Global Solutions" className="footer__logo-img" />
             </Link>

@@ -57,7 +57,7 @@ export default function TrackingDashboard() {
 
         <Ez>
           This is the kind of dashboard you get: money spent, sales made, and the cost of each
-          sale — always up to date, always honest.
+          sale always up to date, always honest.
         </Ez>
 
         <div className="kpis" data-reveal="">

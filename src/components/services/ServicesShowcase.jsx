@@ -247,7 +247,7 @@ export default function ServicesShowcase() {
         />
 
         <Ez>
-          Below is a live-style demo of each service. The numbers are sample data — on your
+          Below is a live-style demo of each service. The numbers are sample data on your
           account, this is where your real numbers would live.
         </Ez>
 

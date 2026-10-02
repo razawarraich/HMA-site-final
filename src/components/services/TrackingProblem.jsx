@@ -34,7 +34,7 @@ export default function TrackingProblem() {
 
         <Ez>
           Four tools can report four different sale counts for the same month. Your own sales
-          list holds the truth — so we make every tool agree with it.
+          list holds the truth so we make every tool agree with it.
         </Ez>
 
         <div className="problem__body">

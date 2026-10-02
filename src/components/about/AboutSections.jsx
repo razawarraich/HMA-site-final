@@ -42,7 +42,7 @@ export function AboutStory() {
             </p>
             <p>
               We work with numbers, but we speak in plain language. If something works, we show
-              you. If something fails, we tell you — and we tell you what we're changing because
+              you. If something fails, we tell you and we tell you what we're changing because
               of it. Your accounts, your data and your dashboards stay yours, always.
             </p>
           </div>
@@ -56,7 +56,7 @@ export function AboutStory() {
 const WORK_STEPS = [
   {
     n: '01', title: 'We talk',
-    text: 'A free 30-minute call. You tell us about your business. We look at your ads and tracking before the call, so we come with real observations — not a sales pitch.',
+    text: 'A free 30-minute call. You tell us about your business. We look at your ads and tracking before the call, so we come with real observations  not a sales pitch.',
     out: ['Honest first impressions', 'A clear next step'],
   },
   {
@@ -71,7 +71,7 @@ const WORK_STEPS = [
   },
   {
     n: '04', title: 'We report every week',
-    text: "One page, in plain words: what we did, what happened, what's next. And you own every account, pixel and dashboard — forever.",
+    text: "One page, in plain words: what we did, what happened, what's next. And you own every account, pixel and dashboard forever.",
     out: ['A weekly summary', 'Full ownership'],
   },
 ];
@@ -111,7 +111,7 @@ export function WorkingSteps() {
 /* ---------- Five rules ---------- */
 const ABOUT_PRINCIPLES = [
   { title: 'Measurement comes first.', text: 'We check the counting before we touch budgets. Spending more on bad data only makes the mistake bigger.' },
-  { title: 'Revenue over vanity numbers.', text: "Likes and clicks don't pay salaries. We optimize for leads, sales and revenue — the numbers that do." },
+  { title: 'Revenue over vanity numbers.', text: "Likes and clicks don't pay salaries. We optimize for leads, sales and revenue, the numbers that do." },
   { title: 'Every test has a reason.', text: 'Before we try something, we write down what we expect. Then the numbers tell us if we were right.' },
   { title: 'Reports in plain language.', text: "What happened, why it happened, what we're changing next. No forty-page decks. Ever." },
   { title: 'Your accounts stay yours.', text: 'Ad accounts, pixels, tags and dashboards live in your name. If we ever part ways, everything stays with you.' },
@@ -125,7 +125,7 @@ export function Principles() {
           eyebrow="How we think"
           titleId="principles-title"
           title="Five rules we never break."
-          aside="Every agency says they're different. Rules are easier to judge than promises — here are ours."
+          aside="Every agency says they're different. Rules are easier to judge than promises here are ours."
         />
         <PrinciplesList items={ABOUT_PRINCIPLES} style={{ maxWidth: 980 }} />
       </div>

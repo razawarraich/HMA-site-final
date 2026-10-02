@@ -20,7 +20,7 @@ export default function Platforms() {
           eyebrow="Platforms we work with"
           titleId="plat-title"
           title="We go where your customers already are."
-          aside="Your customers are on Google, Facebook, Instagram, TikTok and LinkedIn every day. We put your ads there — and we use trusted tools to count the results."
+          aside="Your customers are on Google, Facebook, Instagram, TikTok and LinkedIn every day. We put your ads there and we use trusted tools to count the results."
         />
 
         <div className="plats" data-reveal="">
@@ -31,7 +31,7 @@ export default function Platforms() {
             </div>
           ))}
         </div>
-        <p className="plats__note label">We set these up for you — and you own every account, forever.</p>
+        <p className="plats__note label">We set these up for you and you own every account, forever.</p>
       </div>
     </section>
   );

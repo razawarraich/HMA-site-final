@@ -46,7 +46,7 @@ export default function HowWeWork() {
             budgets, then build structure, then scale what the numbers prove.
           </p>
           <Ez>
-            First we make your numbers true. Only then do we spend more — and only on the things
+            First we make your numbers true. Only then do we spend more and only on the things
             the numbers prove are working.
           </Ez>
           <Photo

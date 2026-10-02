@@ -64,7 +64,7 @@ export default function WhyChooseUs() {
             </h2>
             <p className="lead">
               Plenty of agencies promise growth. We promise proof. These five rules shape every
-              account we touch — and they are why clients stay.
+              account we touch and they are why clients stay.
             </p>
           </div>
           <PrinciplesList />

@@ -21,7 +21,7 @@ export default function Hero() {
           </h1>
           <p className="lead hero__lead intro intro--3">
             We run your ads. We count every lead and sale they bring. Then we use those numbers
-            to grow your business. Simple as that — and every dollar you spend can be traced to
+            to grow your business. Simple as that, and every dollar you spend can be traced to
             what it earned you.
           </p>
           <div className="hero__ctas intro intro--4">

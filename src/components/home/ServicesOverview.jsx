@@ -11,12 +11,12 @@ const CARDS = [
   },
   {
     n: '02', title: 'Tracking & Analytics', to: '/services#analytics',
-    text: "We count every click, every lead and every sale. You always know which ad made you money — and which one didn't.",
+    text: "We count every click, every lead and every sale. You always know which ad made you money and which one didn't.",
     get: 'One clear number you can trust',
   },
   {
     n: '03', title: 'Better Pages', to: '/services#cro',
-    text: 'We improve the page people land on after the click. Faster loading, clearer words, shorter forms — so more visitors buy.',
+    text: 'We improve the page people land on after the click. Faster loading, clearer words, shorter forms so more visitors buy.',
     get: 'More sales from the visitors you already have',
   },
   {

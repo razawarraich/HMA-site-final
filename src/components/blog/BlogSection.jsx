@@ -69,7 +69,7 @@ export default function BlogSection() {
           ))}
         </div>
         {visible.length === 0 && !featuredVisible && (
-          <p className="posts__empty label">Nothing in this topic yet — new guides are on the way.</p>
+          <p className="posts__empty label">Nothing in this topic yet new guides are on the way.</p>
         )}
       </div>
     </section>

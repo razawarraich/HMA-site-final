@@ -34,17 +34,17 @@ export default function LeadForm({ variant = 'compact' }) {
           body: JSON.stringify(data),
         });
         if (!res.ok) throw new Error('bad status');
-        setDone('Thanks! Your request is in — we reply within one working day.');
+        setDone('Thanks! Your request is in we reply within one working day.');
         setSent(true);
       } catch {
-        setDone('Something went wrong sending the form. Please email us instead — the address is on this page.');
+        setDone('Something went wrong sending the form. Please email us instead  the address is on this page.');
       } finally {
         setSending(false);
       }
       return;
     }
 
-    setDone('Thanks! This site is a design sample, so nothing was sent yet — on the live site this request goes straight to the HMA team.');
+    setDone('Thanks! This site is a design sample, so nothing was sent yet on the live site this request goes straight to the HMA team.');
     setSent(true);
   };
 

@@ -59,7 +59,7 @@ export default function CreativeTesting() {
 
             <Ez>
               We always test two ads against each other. The winner stays, the loser teaches us
-              something — and your ads keep getting cheaper.
+              something and your ads keep getting cheaper.
             </Ez>
 
             <div className="ads">

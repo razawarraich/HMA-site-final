@@ -29,7 +29,7 @@ export default function ContactSection() {
             <li>We reply within one working day</li>
             <li>We review your ad accounts and tracking before the call</li>
             <li>You get the biggest opportunities we see, ranked by impact</li>
-            <li>You keep the notes and ideas — whether or not we work together</li>
+            <li>You keep the notes and ideas, whether or not we work together</li>
           </ul>
           <div className="contact-info">
             {INFO.map((i) => (

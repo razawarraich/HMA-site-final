@@ -6,7 +6,7 @@ import { Arrow } from '../icons.jsx';
 const PAINS = [
   {
     n: '01', title: 'Ads cost too much',
-    text: 'You pay for every single click. When the wrong people click, that money is gone — and it bought you nothing.',
+    text: 'You pay for every single click. When the wrong people click, that money is gone  and it bought you nothing.',
   },
   {
     n: '02', title: 'The wrong people click',
@@ -14,7 +14,7 @@ const PAINS = [
   },
   {
     n: '03', title: "You can't see what worked",
-    text: 'A sale happens — great! But which ad caused it? If you don’t know, you might switch off your best ad by mistake.',
+    text: 'A sale happens great! But which ad caused it? If you don’t know, you might switch off your best ad by mistake.',
   },
   {
     n: '04', title: 'Reports are confusing',
