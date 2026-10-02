@@ -38,7 +38,7 @@ export default function Navbar() {
       <div className="container nav__inner">
         <Link className="logo" to="/" aria-label="HMA Global Solutions — home">
           {/* Add your logo image link in the src attribute below */}
-          <img src="img/hma-logo-light.webp" alt="HMA Global Solutions" className="nav__logo-img" />
+          <img src="img/hma-logo-light.svg" alt="HMA Global Solutions" className="nav__logo-img" />
         </Link>
 
         <nav className="nav__links" aria-label="Primary">
