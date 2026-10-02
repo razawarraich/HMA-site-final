@@ -6,7 +6,7 @@ import { initCtaWaves } from '../../lib/waveField.js';
    real inbox exists — see README. */
 const INFO = [
   { label: 'Email', value: 'hmaglobalsolutions@gmail.com' },
-  { label: 'Response time', value: 'Within one working day' },
+  { label: 'Response time', value: 'Almost Immediately' },
   { label: 'Prefer to chat first?', value: 'Choose WhatsApp in the form' },
 ];
 
@@ -26,7 +26,7 @@ export default function ContactSection() {
             tracking and your money.
           </p>
           <ul className="cta__list">
-            <li>We reply within one working day</li>
+            <li>We reply almost Immediately</li>
             <li>We review your ad accounts and tracking before the call</li>
             <li>You get the biggest opportunities we see, ranked by impact</li>
             <li>You keep the notes and ideas, whether or not we work together</li>

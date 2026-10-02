@@ -40,7 +40,6 @@ export default function Navbar() {
           {/* Add your logo image link in the src attribute below */}
           <img src="img/hma-logo-light.svg" alt="HMA Global Solutions" className="nav__logo-img" />
         </Link>
-
         <nav className="nav__links" aria-label="Primary">
           {LINKS.map((l) => (
             <NavLink key={l.to} to={l.to} end={l.end} className={cls('')}>
