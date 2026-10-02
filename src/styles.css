@@ -1,9 +1,3 @@
-/* ==========================================================================
-   HMA Global Solutions — Landing page
-   Tokens follow the HMA logo identity: charcoal / electric blue / deep blue.
-   Single light theme by design (brand page), every colour painted explicitly.
-   ========================================================================== */
-
 :root {
   /* Brand palette */
   --ink: #283038;          /* charcoal / near-black */
@@ -25,8 +19,8 @@
   --line-dark: rgba(255, 255, 255, 0.12);
 
   /* Type */
-  --f-display: "Archivo", "Helvetica Neue", Arial, sans-serif;
-  --f-body: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --f-display: "Archivo Variable", "Helvetica Neue", Arial, sans-serif;
+  --f-body: "Archivo Variable", "Helvetica Neue", Arial, sans-serif;
   --f-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 
   /* Layout */
